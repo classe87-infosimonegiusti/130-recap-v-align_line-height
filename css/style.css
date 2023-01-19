@@ -1,0 +1,19 @@
+#centraVerticale {
+    height: 100px;
+    border: solid 1px black;
+    width: 300px;
+    text-align: center;
+    line-height: 100px;
+}
+
+
+
+#containerCentrato {
+    height: 100px;
+    background-color: darkkhaki;
+    padding: 10px;
+}
+
+.logo {
+   height: 100%; 
+}
